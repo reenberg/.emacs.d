@@ -2,7 +2,14 @@
 abbrev_defs
 auto-save-list
 site-lisp
-url
 
+url/
+semanticdb/
+.python-environments/
+
+ede-projects.el
+*.dat
+session.*
 custom.el
+srecode-map.el
 *~
